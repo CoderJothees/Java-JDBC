@@ -11,9 +11,9 @@ import java.util.Scanner;
 
 public class AnimazorsCareers {
 	
-	private final static String url = "jdbc:mysql://localhost:3306/animazors_employees";
-	private final static String userName= "root";
-	private final static String pwd = "Vanakkam1045.";
+	private final static String url = "jdbc:mysql://localhost:3306/database_name";
+	private final static String userName= "DB_UserName";
+	private final static String pwd = "DB_Password";
 	
 	static Scanner scan = new Scanner(System.in);
 	
